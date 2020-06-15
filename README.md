@@ -8,6 +8,9 @@ $ chmod a+x ./rand_order.sh
 ```
 ### macOS
 ```bash 
+$ brew install coreutils
+$ alias shuf=gshuf
+$ echo "alias shuf=gshuf" >> ~/bash_profile
 $ chmod a+x ./rand_order.sh
 ```
 ## Usage
