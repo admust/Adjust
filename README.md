@@ -1,6 +1,15 @@
 # Random Order of list of numbers
 Shell Script to create list between 2 digits and randomize its order and write it in the console 
-
+## Prerequistes
+make sure the script is executable on your terminal
+### Linux
+```bash 
+$ chmod a+x ./rand_order.sh
+```
+### macOS
+```bash 
+$ chmod a+x ./rand_order.sh
+```
 ## Usage
 You need to list the range of numbers you want to have it as script argumment 
 ```bash
